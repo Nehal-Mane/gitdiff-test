@@ -1,2 +1,0 @@
-# gitdiff-test
-gitdiff-test
